@@ -1,4 +1,4 @@
-package try_reader
+package rwb
 
 import "bytes"
 
